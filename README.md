@@ -40,7 +40,7 @@ It can be used for activities such as:
 
 ## 🏗️ Lab Architecture
 
-![Lab Architecture](Lab_Architecture.png)
+![Lab Architecture](Lab_Architecture[1].png)
 
 Additional target machines can be added to the same virtual network in future projects.
 
@@ -66,7 +66,7 @@ Configuration:
 - DHCP: Enabled
 - IPv6: Disabled
 
-![NAT Network Configuration](nat_network.png)
+![NAT Network Configuration](nat_network.png.png)
 
 A NAT Network was used to create a controlled environment to keep viruses or any sort of harmful things contained.
 
@@ -81,7 +81,7 @@ The VM network adapter was configured as follows:
 - Network: NatNetwork
 - Adapter Type: Intel PRO/1000 MT Desktop
 
-![Kali Installed](kali_intsalled_ss.png)
+![Kali Installed](kali_intsalled_ss.png.png)
 
 ### Step 5. Configure the Kali Linux Network
 
@@ -96,13 +96,13 @@ Example configuration:
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![Network Configuration](configure_netowrk_ss.png)
+![Network Configuration](configure_netowrk_ss.png.png)
 
 ### Step 6. Create a Clean VM Snapshot
 
 After completing the initial configuration, a VirtualBox snapshot was created 
 Example snapchotname:
-![VM Snapshot]()
+![VM Snapshot](vm_snapshot_ss.png.png)
 
 The snapshot represents the clean baseline of the laboratory.
 
