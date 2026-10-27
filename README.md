@@ -81,7 +81,7 @@ The VM network adapter was configured as follows:
 - Network: NatNetwork
 - Adapter Type: Intel PRO/1000 MT Desktop
 
-![Kali Installed](kali_intsalled_ss.png.png)
+![Kali Installed](kali_installed_ss.png.png)
 
 ### Step 5. Configure the Kali Linux Network
 
