@@ -1,4 +1,4 @@
-# networkwalks-B083C-week1-Cybersecurity-Lab-Setup
+# networkwalks-B084c-week1-Cybersecurity-Lab-Setup
 
 Cybersecurity lab setup
 
